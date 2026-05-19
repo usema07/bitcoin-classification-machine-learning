@@ -43,6 +43,7 @@ Il progetto è stato sviluppato interamente in ambiente **Python** sfruttando le
 ## 🚀 Come eseguire l'analisi sul tuo computer
 
 1. **Clona la repository:**
-   ```bash
-  git clone https://github.com/usema07/bitcoin-classification-machine-learning.git
+```bash
+git clone https://github.com/usema07/bitcoin-classification-machine-learning.git
 cd bitcoin-classification-machine-learning
+```
